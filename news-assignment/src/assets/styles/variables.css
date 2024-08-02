@@ -1,0 +1,9 @@
+$primary: #1b2175;
+$primary-darker: #007efe;
+$secondary-darker: #ffbb00;
+$tertiary-darker: #fd424b;
+$primary-opacity: #007ffe48;
+$secondary-opacity: #ffcd0331;
+$tertiary-opacity: #ff58602d;
+$gradient-primary: linear-gradient(to top left, #1b2175, #007efe);
+$gradient-secondary: linear-gradient(to top left, #ffb003, #ffcb03);
